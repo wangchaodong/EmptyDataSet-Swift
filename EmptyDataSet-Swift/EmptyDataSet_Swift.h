@@ -2,11 +2,11 @@
 //  EmptyDataSet_Swift.h
 //  EmptyDataSet-Swift
 //
-//  Created by Mateusz Wagner on 04/07/2019.
-//  Copyright © 2019 Xiaoye. All rights reserved.
+//  Created by s1mple wang on 5/27/23.
+//  Copyright © 2023 Xiaoye. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for EmptyDataSet_Swift.
 FOUNDATION_EXPORT double EmptyDataSet_SwiftVersionNumber;

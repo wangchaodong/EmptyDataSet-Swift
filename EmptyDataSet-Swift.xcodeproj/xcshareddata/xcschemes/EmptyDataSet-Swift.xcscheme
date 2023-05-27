@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "61F8490F22CE212300F50028"
+               BlueprintIdentifier = "7E4FFA382A22546F00E2901E"
                BuildableName = "EmptyDataSet_Swift.framework"
                BlueprintName = "EmptyDataSet-Swift"
                ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -45,14 +43,12 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "61F8490F22CE212300F50028"
+            BlueprintIdentifier = "7E4FFA382A22546F00E2901E"
             BuildableName = "EmptyDataSet_Swift.framework"
             BlueprintName = "EmptyDataSet-Swift"
             ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -63,7 +59,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "61F8490F22CE212300F50028"
+            BlueprintIdentifier = "7E4FFA382A22546F00E2901E"
             BuildableName = "EmptyDataSet_Swift.framework"
             BlueprintName = "EmptyDataSet-Swift"
             ReferencedContainer = "container:EmptyDataSet-Swift.xcodeproj">
