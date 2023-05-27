@@ -198,5 +198,13 @@ extension EmptyDataSetView {
         didDisappearHandle = closure
         return self
     }
-    
+
+
+    /// Asks the delegate to know if the empty dataset should be rendered and displayed. Default is true.
+    @discardableResult
+    public func useSectionCountForDisplay(_ bool: Bool) -> Self {
+        useSectionCountForDisplay = bool
+        return self
+    }
+
 }
