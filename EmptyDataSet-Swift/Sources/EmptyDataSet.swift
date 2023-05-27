@@ -123,9 +123,7 @@ extension UIScrollView: UIGestureRecognizerDelegate {
                     }
                 }
                 if userSectionCountForDisplay {
-                    if sections > 0, items == 0 {
-                        items = sections
-                    }
+                    items = sections
                 }
             }
         } else if let collectionView = self as? UICollectionView {
@@ -141,9 +139,7 @@ extension UIScrollView: UIGestureRecognizerDelegate {
                     }
                 }
                 if userSectionCountForDisplay {
-                    if sections > 0, items == 0 {
-                        items = sections
-                    }
+                    items = sections
                 }
             }
         }
